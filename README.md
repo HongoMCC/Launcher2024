@@ -1,4 +1,4 @@
-# GameLuncher2024
+# GameLauncher2024
 
 ## このリポジトリについて
 2024年度文化祭にて販売するCD（DVD?）のゲームランチャーアプリ（Unity）
